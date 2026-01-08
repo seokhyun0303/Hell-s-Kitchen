@@ -12,16 +12,21 @@ Primary Objectives
 
 
 
+
 ## Tech Stack
 Unity 2023.2.20
 
 ## Usage
 
-![image](hkselect.png)
+![image](hkselet.png)
 - You can choose 3 different types of characters having different stat.
+
+  
 
 ![image](item.png)
 - These items appear in the kitchen. If you get them, you wil get corresponding rewards.
+
+
 
 <p align="center">
   <img src="hkfire.png" width="45%" />
