@@ -29,7 +29,7 @@ Unity 2023.2.20
 
 
 <p align="center">
-  <img src="hkfire.png" width="45%" />
+  <img src="hkfire.png" width="40%" />
   <img src="hkdark.png" width="45%" />
 </p>
 - you will encounter these obstacles to get over.
