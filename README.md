@@ -6,9 +6,9 @@ The primary goal is to prepare and serve food orders accurately and efficiently 
 hazards like kitchen fires and power outages and earn a target amount of money. 
 
 Primary Objectives
-● Progressing through increasingly complex levels by completing all food orders before the timer runs out.
-● Overcoming kitchen hazards (fires, power outages) while maintaining efficiency.
-● New goal: Get a certain score in the current stage to advance to a more difficult stage.
+- Progressing through increasingly complex levels by completing all food orders before the timer runs out.
+- Overcoming kitchen hazards (fires, power outages) while maintaining efficiency.
+- New goal: Get a certain score in the current stage to advance to a more difficult stage.
 
 
 
