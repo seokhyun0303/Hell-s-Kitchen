@@ -10,6 +10,8 @@ Primary Objectives
 - Overcoming kitchen hazards (fires, power outages) while maintaining efficiency.
 - New goal: Get a certain score in the current stage to advance to a more difficult stage.
 
+This game was inspired by Overcooked 1 and 2, and differentiates itself by introducing characters with diverse attributes and new types of obstacles
+
 
 
 
