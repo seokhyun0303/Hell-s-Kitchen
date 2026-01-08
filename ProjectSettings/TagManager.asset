@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - FIsh
+  - Carrot
+  - Pepper
+  - Cucumber
+  - Nori
+  - Rice
+  - Salami
+  - Fish
+  - Trashcan
+  - Pan
+  - cutting
+  - Lever
+  - Extinguisher
+  - ConveyorBelt
+  - Plate
+  - ChoppedPepper
+  - ChoppedCucumber
+  - ChoppedCarrot
+  - ChoppedFish
+  - Kimbap1
+  - Kimbap2
+  - Kimbap3
+  - Kimbap4
+  - Kimbap5
+  - Kimbap6
+  - CookedSalami
+  - speedup
+  - cookup
+  - addmoney
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - ConveyorBelt
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

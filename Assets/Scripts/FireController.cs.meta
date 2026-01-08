@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: d939baada30ea43dc82131543bff5ef4
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - playergrab: {instanceID: 0}
+  - fireEffect: {instanceID: 0}
+  - fryingPan: {instanceID: 0}
+  - extinguisher: {instanceID: 0}
+  - currentIngredient: {instanceID: 0}
+  - cookedIngredientPrefab: {instanceID: 0}
+  - steamEffect: {instanceID: 0}
+  - bgImage: {instanceID: 0}
+  - fgImage: {instanceID: 0}
+  - audioSource: {instanceID: 0}
+  - fryingClip: {fileID: 8300000, guid: b6a243ef1da6d4be595655a6405b9fb2, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

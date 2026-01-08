@@ -1,0 +1,17 @@
+# ninja log v5
+16	4465	7550244147133106	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	548214f17f8e4996
+116	5065	7550244155786177	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	188def9688d97b0
+88	5683	7550244162688303	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	28fd8ae2478a3bf5
+37	6091	7550244167573756	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	433ca786d619c721
+7190	7805	7550244183078680	C:/HellsKitchenMobile/Hell-s-Kitchen/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/286c1m39/obj/arm64-v8a/libgame.so	ddfc014d94d6079c
+335	6882	7550244174734421	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	d7e4e61bfe9ef51e
+2	7185	7550244178736222	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	8c32a1ccd799f566
+71	7106	7550244177820322	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	bc6bc1da32833f1a
+5	866	7550257751859409	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	548214f17f8e4996
+47	969	7550257752813743	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	188def9688d97b0
+35	1040	7550257753615490	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	bc6bc1da32833f1a
+43	1121	7550257754386411	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	d7e4e61bfe9ef51e
+13	1132	7550257754535892	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	8c32a1ccd799f566
+30	1229	7550257755542126	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	28fd8ae2478a3bf5
+26	1353	7550257756695246	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	433ca786d619c721
+1353	1624	7550257758256333	C:/HellsKitchenMobile/Hell-s-Kitchen/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/286c1m39/obj/arm64-v8a/libgame.so	ddfc014d94d6079c

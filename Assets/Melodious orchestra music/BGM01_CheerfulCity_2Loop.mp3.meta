@@ -1,0 +1,30 @@
+fileFormatVersion: 2
+guid: c3e9032b2ce193a47b71fb7ae046b599
+AssetOrigin:
+  serializedVersion: 1
+  productId: 20149
+  packageName: Melodious Orchestra Music
+  packageVersion: 1.0
+  assetPath: Assets/Melodious orchestra music/BGM01_CheerfulCity_2Loop.mp3
+  uploadId: 240066
+AudioImporter:
+  externalObjects: {}
+  serializedVersion: 7
+  defaultSettings:
+    serializedVersion: 2
+    loadType: 2
+    sampleRateSetting: 0
+    sampleRateOverride: 0
+    compressionFormat: 1
+    quality: 1
+    conversionMode: 0
+    preloadAudioData: 1
+  platformSettingOverrides: {}
+  forceToMono: 0
+  normalize: 1
+  loadInBackground: 0
+  ambisonic: 0
+  3D: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
